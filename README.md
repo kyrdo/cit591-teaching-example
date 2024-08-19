@@ -3,4 +3,6 @@ This is a simple repository for teaching us about git.
 
 Hello from Monday's lecture :)
 
+Hello from Wednesday's lecture!
+
 Hello from the future
